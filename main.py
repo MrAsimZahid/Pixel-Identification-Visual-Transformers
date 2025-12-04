@@ -24,7 +24,7 @@ def main():
         "img_size": 64,
         "use_synthetic": False,
         "synthetic_samples": 5000,
-        "save_dir": "./data/train_checker",
+        "save_dir": "./data/train",
     }
 
     # Generate synthetic data if needed
